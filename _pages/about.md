@@ -57,7 +57,7 @@ Wait and Hope.
 
 # 💬 Invited Talks
 - *2024.06*, 2024 Mathematics Classroom Teaching Research for All Students.
-- *2023.11*, The Third International Symposium on Mathematics Education.
+- *2023.11*, The Third ACME Symposium on Mathematics Education
 - *2023.06*, 首届粤港澳大湾区数学教育论坛.
 
 # 💻 Internships
