@@ -27,7 +27,7 @@ author:
   location         : "武汉；中国"
   employer         :
   pubmed           : 
-  CNKIscholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
+  Googlescholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
   email            : "tian863@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -52,9 +52,9 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  vine             :
+  vine             : "ss"
   weibo            :
-  xing             :
+  xing             : "123"
   youtube          :
   wikipedia        :
 
