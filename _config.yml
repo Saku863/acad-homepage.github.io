@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tian Maodong's HomePages"
-description              : "华中师范大学数学教育博士研究生，爱好🎮📷🏓"
+description              : "且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。"
 repository               : "Saku863/Saku863.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "田茂栋"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中师范大学博士研究生"
+  bio              : "华中师范大学"
   location         : "武汉；中国"
   employer         : "公众号：漫话数学教育"
   pubmed           : 
