@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tian Maodong（田茂栋）'s HomePages"
-description              : "woshi 我是 "
+title                    : "Tian Maodong's HomePages"
+description              : "华中师范大学数学教育博士研究生，主要研究方向数学课程与教学、教师教育；爱好🎮📷🏓"
 repository               : "Saku863/Saku863.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "武汉；中国"
   employer         :
   pubmed           : 
-  Googlescholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
+  googlescholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
   email            : "tian863@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -52,9 +52,9 @@ author:
   steam            :
   tumblr           :
   twitter          : 
-  vine             : "ss"
+  vine             : 
   weibo            :
-  xing             : "123"
+  xing             : 
   youtube          :
   wikipedia        :
 
