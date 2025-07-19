@@ -24,7 +24,7 @@ Wait and Hope.
 # 📄 研究方向
 - 数学课程与教学
 - 信息技术与数学教育
-- 教师教育
+- 数学教师教育
 
 # 🔥 News
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学教学研究 2025（02）</div><img src='images/500x320.png' alt="sym" width="100%"></div></div>
@@ -62,7 +62,7 @@ Wait and Hope.
 
 # 💬 Invited Talks
 - *2024.06*, 2024 Mathematics Classroom Teaching Research for All Students.
-- *2023.11*, The Third ACME Symposium on Mathematics Education
+- *2023.11*, The Third ACME Symposium on Mathematics Education.
 - *2023.06*, 首届粤港澳大湾区数学教育论坛.
 
 # 💻 Internships
