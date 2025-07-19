@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tian Maodong's HomePages"
-description              : "华中师范大学数学教育博士研究生，主要研究方向数学课程与教学、教师教育；爱好🎮📷🏓"
+description              : "华中师范大学数学教育博士研究生，爱好🎮📷🏓"
 repository               : "Saku863/Saku863.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198401511620/"
   tumblr           :
   twitter          : 
   vine             : 
