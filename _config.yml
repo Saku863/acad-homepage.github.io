@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tian Maodong（田茂栋）"
+  name             : "田茂栋"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "华中师范大学博士研究生"
-  location         : "武汉；山东"
+  location         : "武汉；中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
+  CNKIscholar    : "https://au.cnki.net/author/personalInfo/000057159504?platform=kns-author"
   email            : "tian863@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
