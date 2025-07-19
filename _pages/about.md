@@ -22,12 +22,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 主要研究方向：数学课程与教学、信息技术与数学教育、教师教育。
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">数学教学研究 2025（02）</div><img src='images/500x320.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于MKT的数学课例研究模式与应用——以“函数的奇偶性”为例](https://kns.cnki.net/kcms2/article/abstract?v=pkeuivz917Xypd3i4UxZTHIs8IPH093c1kl2A25h_yA07027E3pV7JK1D-QGW6JiEAH9VfkzgMr18OsE3GvQHrKKKeVU0iX10L6-COxBJWR2odblK9A3OXEShF_hJPWZP0hWIJ8BClRZf2dSAhMvZWB4thQvw00SVI4kRjZWVxUp1IaocbOVPg==&uniplatform=NZKPT&language=CHS)
+
+**田茂栋**, 库在强, 罗丛林
+
+**Project** 中国教育发展战略学会区域教育专业委员会2024年度项目（QYJYZWH2475）
+- 面向教学的数学知识（MKT）指教学所需要的数学知识，对数学课堂教学和数学教师发展具有借鉴意义。研究以MKT为理论基础，构建MKT数学课例研究模式，凸显课例研究中的数学学科属性，实现数学课例研究由行为矫正到知识建构的转变，并选取“函数的奇偶性”一节，具体展示“学科内容知识指导课例准备、学科教学知识组织教学实施、面向教学的数学知识统领总结反馈”课例研究过程，为中学数学课例研究和课堂教学提供理论与实践指引。
+- 课例研究；MKT；函数；奇偶性
 
 # 📝 Publications 
-[1]库在强,田茂栋,叶蕾.人工智能视域下高中数学教师AI-TPACK的提升策略[J].中小学教师培训,2023,(09):28-33.
-
+[1]库在强,田茂栋,叶蕾.人工智能视域下高中数学教师AI-TPACK的提升策略[J].中小学教师培训,2023,(09):28-33.（人大转载）
+[2]库在强,田茂栋,叶蕾.数字教育背景下数学教学范式创新研究[J].教学与管理,2025,(03):93-97.（核心，人大转载）
+[3]库在强,田茂栋,叶蕾,等.基于数学建模的阿尔茨海默病认知诊断和早期预防分析[J].数学的实践与认识,2025,55(02):101-114.（核心）
+[4]田茂栋,库在强,叶蕾.我国数学校本课程发展的现状、特点及建议[J].数学教学研究,2024,43(03):7-11+18.（人大索引）
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
